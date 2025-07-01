@@ -35,7 +35,8 @@ if ($id > 0) {
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Confirmación - Sistema de PQRSs</title>
-    <link rel="stylesheet" href="css/styles.css"> 
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="assets/img/logo.png">
 </head> 
 <body> 
     <div class="container"> 
@@ -62,7 +63,7 @@ if ($id > 0) {
                     </div>
                     <?php endif; ?>
                     
-                    <p>Nos pondremos en contacto con usted pronto.</p>
+                    <p>Nos pondremos en contacto con usted pronto. Revisar la carpeta de no deseados de su correo</p>
                 </div> 
                 
                 <div style="text-align: center; margin-top: 30px;">
