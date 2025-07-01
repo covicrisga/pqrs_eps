@@ -33,6 +33,7 @@ unset($_SESSION['errores']);
     <title>Sistema de PQRSs para EPSs</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="assets/img/logo.png">
     
 </head>
 <body>
